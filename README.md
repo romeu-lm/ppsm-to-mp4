@@ -11,3 +11,6 @@ The script uses PowerPoint's COM interface via pywin32 to:
 2. Call `CreateVideo()`
 3. Wait for export completion
 4. Save output to `./Videos`
+
+## Extra
+`.ppsm_to_pdf.py` converts `.ppsm` to `.pdf` without webcam/video image on the slides.
